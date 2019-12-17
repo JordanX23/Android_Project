@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavi</string>
+    <string name="title_home">Home</string>
+    <string name="title_forum">Forum</string>
+    <string name="title_events">Events</string>
+    <string name="title_account">Account</string>
+    <string name="title_poisonfree">PoisonFree</string>
+</resources>
